@@ -1,1 +1,2 @@
 # Ecommerce-Website
+This project involves creating a simple and functional eCommerce website using HTML for structure and CSS for styling. The website features product categories such as electronics, fashion, and groceries, with product images, prices, and interactive buttons like Buy Now and Add to Cart. It serves as a foundation for understanding how to design and style a basic shopping platform using HTML and CSS.
